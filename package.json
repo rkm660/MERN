@@ -1,10 +1,10 @@
 {
-  "name": "MERN Boilerplate",
+  "name": "mern_boilerplate",
   "description": "Starter for MERN apps",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/rkm660/MERN.git"
   },
   "main": "server.js",
   "scripts": {
@@ -50,7 +50,7 @@
     "gulp-less": "^3.0.3",
     "gulp-plumber": "^1.0.1",
     "gulp-sourcemaps": "^1.6.0",
-    "gulp-uglify": "^1.4.2",
+    "gulpmeglify": "^1.4.2",
     "gulp-util": "^3.0.7",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0",
